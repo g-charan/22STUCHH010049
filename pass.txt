@@ -1,0 +1,14 @@
+{
+    "email": "charangutti22@ifheindia.org",
+    "name": "charan gutti",
+    "rollNo": "22stuchh010049",
+    "accessCode": "bCuCFT",
+    "clientID": "246ba295-44ed-45eb-ab7a-6e0f851b2340",
+    "clientSecret": "CQTRzYRUKNcHKpjh"
+}
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJjaGFyYW5ndXR0aTIyQGlmaGVpbmRpYS5vcmciLCJleHAiOjE3NTMyNTMxNTQsImlhdCI6MTc1MzI1MjI1NCwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6IjQ3Njg0YzA3LTY2NGUtNDVhYS04YjhjLWNhNDk2Mjk3YzkyMCIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6ImNoYXJhbiBndXR0aSIsInN1YiI6IjI0NmJhMjk1LTQ0ZWQtNDVlYi1hYjdhLTZlMGY4NTFiMjM0MCJ9LCJlbWFpbCI6ImNoYXJhbmd1dHRpMjJAaWZoZWluZGlhLm9yZyIsIm5hbWUiOiJjaGFyYW4gZ3V0dGkiLCJyb2xsTm8iOiIyMnN0dWNoaDAxMDA0OSIsImFjY2Vzc0NvZGUiOiJiQ3VDRlQiLCJjbGllbnRJRCI6IjI0NmJhMjk1LTQ0ZWQtNDVlYi1hYjdhLTZlMGY4NTFiMjM0MCIsImNsaWVudFNlY3JldCI6IkNRVFJ6WVJVS05jSEtwamgifQ.y_IOfyuBs1mMIfnQ6pui_RAQY38-3e6sNxDoT51JyVg",
+    "expires_in": 1753253154
+}
